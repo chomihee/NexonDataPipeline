@@ -24,6 +24,6 @@ CONFIG = {
                  {"id": "8e432e8122a23f4d06a3d43b1cec2fb9d939bb1a5c30b571574ee5f74fda9d66", "name": "복불복 스피드 팀전"},
                  {"id": "e60946660f964b7aadf47691a6c663cc57b2cf8021761c9183aa1fabea1f8537", "name": "1 vs 1 모드"}],
 
-    "api_key": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJYLUFwcC1SYXRlLUxpbWl0IjoiNTAwOjEwIiwiYWNjb3VudF9pZCI6IjE3NjI1NDI5NzkiLCJhdXRoX2lkIjoiMiIsImV4cCI6MTY4NDgzNzc2MywiaWF0IjoxNjY5Mjg1NzYzLCJuYmYiOjE2NjkyODU3NjMsInNlcnZpY2VfaWQiOiI0MzAwMTEzOTMiLCJ0b2tlbl90eXBlIjoiQWNjZXNzVG9rZW4ifQ.qnLUyI2AXxqwoBpxSdNyNAykMz9aYho-6DB6pPPgMDk",
-    "file_dir" : "C:/Users/mhcho/PycharmProjects/nexon_api/",
+    "api_key": "api 입력",
+    "file_dir" : "경로입력",
 }
